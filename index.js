@@ -67,7 +67,6 @@ const pickWay = async () => {
         console.log(`Hey! ${player.playerName} We need you to pick a route, we are running out of time. Please go either left, right or random if you can't decide`)
         ranDecision()
     }
-
 }
 
 let quit = async () => {
